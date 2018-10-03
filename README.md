@@ -11,7 +11,7 @@ and next
 open afp://10.1.1.10  (replace this with your Raspberry Pi IP address)
 
 ```
-# 2 :  
+# 2 : browse 
  go to Finder (mac) or explorer (windows) and open network , open raspberrypi connect as (your raspberry pi username and password)
  
 # 3 open vscode
